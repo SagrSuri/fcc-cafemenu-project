@@ -29,6 +29,8 @@ body {
     margin-right: auto;
     padding: 20px;
     max-width: 500px;
+    border-radius: 20px;
+    border: 2px solid rgba(2, 1, 1, 0.502);
   }
   
   img {
